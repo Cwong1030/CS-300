@@ -6,7 +6,7 @@ My approach was to utilize the analysis I had done for each data structure and c
 
 Admitally I had to initially stray from the original data structure that I chose which was a binary search tree to a structure utlizing vectors instead. One of the biggest roadblocks was trying to fully understand how to read and store the data from the input file. I still did not fully quite grasp it in the end but I have a greater understanding moving forward on how to better approach that perticular set of tasks. This project made me understand that if information is not quite clicking, try to refocus on the task from a different perspective, and never give up.
 
-
+This project has made me realize that there are multiple ways to go about a problem, granted you know and understand information when doing research. 
 
 
  
