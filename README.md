@@ -1,4 +1,4 @@
-# SNHU-CS300
+# CS-300
 
 The purpose of the analysis done in Project One was to identify the advantages, disadvantages, and runtimes of each individual data structure used in the creation of a database of school courses, containing their prerequisites if any were present from an input file. The data structures used in the analysis included vectors, hashtable, and a binary search tree. Project Two's purpose was to develop the code to create the aforementioned database of school courses and their prerequisites from the input file.
 
